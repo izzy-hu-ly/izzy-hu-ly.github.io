@@ -1,4 +1,4 @@
-# izzy's LinkFree
+# izzy's linkfree website
 
 Check out:
 
